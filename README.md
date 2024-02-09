@@ -17,7 +17,6 @@
 <h3 align='center'>Main Page</h3>
 
 <div align='center'>
-![image](https://github.com/manepradnya/GuessMyNumberGame/assets/40739047/10c0b39d-90cd-4f63-a1a8-62966852aa22)
 
 ![image](https://github.com/manepradnya/GuessMyNumberGame/assets/40739047/f7ee4107-2f1f-4cdb-972e-a45addafdd66)
 
